@@ -133,18 +133,18 @@ export default {
   referencias: [
     {
       referencia:
-        'Avansis. (2021). BPO Business Process Outsourcing. Qué es y cómo funciona. Avansis. ',
+        'Avansis. (2021). BPO <i>Business Process Outsourcing</i>. Qué es y cómo funciona. Avansis. ',
       link: 'https://www.avansis.es/outsourcing/que-es-bpo/',
     },
     {
       referencia:
-        'Call Center de México. (2018). 5 ventajas de una buena infraestructura en tu Contact Center para mejorar tu servicio de atención al cliente. ',
+        'Call Center de México. (2018). 5 ventajas de una buena infraestructura en tu <i>Contact Center</i> para mejorar tu servicio de atención al cliente. ',
       link:
         'https://www.callcentermexico.com.mx/blog/5-ventajas-de-una-buena-infraestructura-en-tu-contact-center-para-mejorar-tu-servicio-de-atencion-al-cliente',
     },
     {
       referencia:
-        'Call Center de México. (2019). ¿Qué es un Contact Center y cómo impacta al crecimiento de tu negocio? ',
+        '<i>Call Center</i> de México. (2019). ¿Qué es un <i>Contact Center</i> y cómo impacta al crecimiento de tu negocio? ',
       link:
         'https://www.callcentermexico.com.mx/blog/que-es-un-contact-center-y-como-impacta-al-crecimiento-de-tu-negocio',
     },
@@ -167,7 +167,7 @@ export default {
     },
     {
       referencia:
-        'Evaluando Software.com. (2021). BPO: ¿qué es Business Process Outsourcing? ',
+        'Evaluando Software.com. (2021). BPO: ¿qué es <i>Business Process Outsourcing</i>? ',
       link:
         'https://www.evaluandosoftware.com/bpo-que-es-business-process-outsourcing/',
     },
@@ -179,12 +179,12 @@ export default {
     },
     {
       referencia:
-        'Formación GCC. (2020) ¿Qué es un Call Center virtual? Cómo funcionan y cuáles son sus beneficios. ',
+        'Formación GCC. (2020) ¿Qué es un <i>Call Center</i> virtual? Cómo funcionan y cuáles son sus beneficios. ',
       link: 'https://formaciongcc.com/call-center-virtual',
     },
     {
       referencia:
-        'Portafolio. (2016). La profesionalización de los Contact Center. ',
+        'Portafolio. (2016). La profesionalización de los <i>Contact Center</i>. ',
       link:
         'https://www.portafolio.co/evolucion-contact-centers-colombia-revista-portafolio-497791',
     },
@@ -362,7 +362,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

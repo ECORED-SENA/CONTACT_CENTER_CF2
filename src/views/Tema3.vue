@@ -36,7 +36,7 @@
       .col-lg-5.p-4.bg-color7.d-flex
         .row.align-items-center
           .col-12
-            p.mb-0.text-white Se debe precisar que antes de pensar en la construcción de un plan de contingencia para una operación de BPO es importante identificar hacia dónde va enrutado, al mismo tiempo que se debe delimitar muy bien su aplicación y los recursos con que se cuenta para la implementación, lo cual obliga a tener en cuenta los algunos elementos.
+            p.mb-0.text-white Se debe precisar que antes de pensar en la construcción de un plan de contingencia para una operación de BPO es importante identificar hacia dónde va enrutado, al mismo tiempo que se debe delimitar muy bien su aplicación y los recursos con que se cuenta para la implementación, lo cual obliga a tener en cuenta algunos elementos.
     p Ahora bien, en las compañías de Contact Center BPO se manejan operaciones que suelen ser muy robustas y complejas, por ello es necesario que estas, a su vez se apalanquen con planes de contingencia que realmente permitan dar respuesta a los diferentes eventos no planeados y que se puedan presentar dentro de las operaciones.
     p.mb-5 Por lo cual, las empresas de Contact Center BPO están en la obligación de estructurar planes de contingencia que den respuesta a tres frentes fundamentales, los cuales son:
     #carouselExampleIndicators.carousel.slide.mb-5(data-bs-ride='carousel')
@@ -45,13 +45,13 @@
         button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='1' aria-label='Slide 2')
         button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='2' aria-label='Slide 3')
       .carousel-inner
-        .carousel-item.active
+        .carousel-item.active(data-bs-interval='90000')
           .row.align-items-end.justify-content-between.bg-color8.p-5
             .col-lg-3.mb-4.mb-lg-0.ms-0.ms-lg-5
               p(style="background-color: #3E2EA6; padding: 20px;").text-white Contingencia tecnológica
             .col-lg-5.me-0.me-lg-5.p-4.bg-color11
               p.text-white.pb-2 De los eventos tecnológicos se puede decir que estos son los que más afectan las operaciones hoy en día, debido a que estas empresas se caracterizan por implementar infraestructuras tecnológicas fuertes para sus operaciones, esto hace que sus planes de contingencia tengan un enfoque predictivo, para lo cual aplican como estrategia aumentar su inversión en adquisición de herramientas tecnológicas adicionales que tienen como principal función trabajar bajo la figura de clúster, es decir, en caso que de que los sistemas tecnológicos de uso habitual sufran un evento imprevisto y no planeado, el clúster entra en funcionamiento y evita que la operación se detenga o se afecte.
-        .carousel-item
+        .carousel-item(data-bs-interval='90000')
           .row.align-items-end.justify-content-between.bg-color9.p-5
             .col-lg-3.mb-4.mb-lg-0.ms-0.ms-lg-5
               p(style="background-color: #3E2EA6; padding: 20px;").text-white Contingencia física
@@ -59,7 +59,7 @@
               br
               p.text-white.pb-3 Los eventos físicos generalmente podrían estar más ligados a factores externos de la compañía, como por ejemplo, cortes en el fluido eléctrico o intermitencias en el servicio de telecomunicaciones, etc., los cuales obligan a que al momento de la construcción del plan de contingencia se identifiquen y se analicen dichas causas, de manera tal que el plan de contingencia realmente pueda dar respuesta al evento, garantizando el funcionamiento normal de la operación.
               br
-        .carousel-item
+        .carousel-item(data-bs-interval='90000')
           .row.align-items-end.justify-content-between.bg-color10.p-5
             .col-lg-3.mb-4.mb-lg-0.ms-0.ms-lg-5
               p(style="background-color: #3E2EA6; padding: 20px;").text-white Contingencia por talento humano

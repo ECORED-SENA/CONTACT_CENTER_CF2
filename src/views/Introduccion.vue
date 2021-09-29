@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p A través de este componente formativo apropiará los elementos y conceptos necesarios relacionados con las áreas de Contact Center BPO, con todos sus procesos y características, los cuales le permitirán afianzar habilidades y destrezas que garanticen interacciones exitosas con clientes a través de los diferentes canales propios de este sector.
+    p A través de este componente formativo apropiará los elementos y conceptos necesarios relacionados con las áreas de #[i Contact Center] BPO, con todos sus procesos y características, los cuales le permitirán afianzar habilidades y destrezas que garanticen interacciones exitosas con clientes a través de los diferentes canales propios de este sector.
     p.mb-5 Para conocer un poco más sobre la temática a trabajar en este componente formativo vea el siguiente video.
     figure
       .video

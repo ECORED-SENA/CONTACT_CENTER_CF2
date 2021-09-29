@@ -6,8 +6,8 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Contextualización del Contact Center - <i>Business Process Outsourcing</i> (BPO)
-    p.mb-5 La industria del Contact Center BPO en Colombia se muestra como un sector dinámico en sus operaciones y muy innovador en cuanto a su recurso tecnológico, es por esta razón, que se convierte en un aliado para las empresas que requieren de sus servicios y a su vez en un sector que mantiene una alta demanda de talento humano calificado, no solamente en áreas técnicas sino, además, en una serie de habilidades específicas (Sectorial, 2021), como las que se muestran en la siguiente figura.
+      h1 Contextualización del <i>Contact Center</i> - <i>Business Process Outsourcing</i> (BPO)
+    p.mb-5 La industria del #[i Contact Center] BPO en Colombia se muestra como un sector dinámico en sus operaciones y muy innovador en cuanto a su recurso tecnológico, es por esta razón, que se convierte en un aliado para las empresas que requieren de sus servicios y a su vez en un sector que mantiene una alta demanda de talento humano calificado, no solamente en áreas técnicas sino, además, en una serie de habilidades específicas (Sectorial, 2021), como las que se muestran en la siguiente figura.
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido
@@ -43,7 +43,7 @@
       .col-12
         .row.align-items-center.mb-4
           .col-lg-6.mb-4.mb-lg-0
-            p.mb-4 De acuerdo con la Empresa Consultora CCM (2019) los #[b #[i Contact Center]] o centros de contacto son unidades de negocio centralizadas, las cuales tienen como principal finalidad generar interacciones con el cliente mediante diferentes canales, los cuales pueden ser:
+            p.mb-4 De acuerdo con la empresa consultora CCM (2019) los #[b #[i Contact Center]] o centros de contacto son unidades de negocio centralizadas, las cuales tienen como principal finalidad generar interacciones con el cliente mediante diferentes canales, los cuales pueden ser:
             .cajon.color-primario.p-4
               ul.lista-ul.ms-3
                 li 
@@ -59,7 +59,7 @@
             figure(data-aos="fade-right")
               img(src='@/assets/curso/img6.svg', style="width: 450px").m-auto
         p Todo esto unido a su estrategia de operación, logra que las empresas tengan comunicación permanente con sus clientes de una manera asertiva, eficiente y a tiempo.
-        p.mb-5 Dentro de los servicios que puede ofrecer un Contact Center se destacan:
+        p.mb-5 Dentro de los servicios que puede ofrecer un #[i Contact Center] se destacan:
         .row.mb-4.justify-content-center
           .col-sm-6.col-lg-2.mb-4.mb-lg-0
             .tarjeta--boton.color-primario.p-3.bg-color2
@@ -81,21 +81,21 @@
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/img8.svg', style="width: 40px").m-auto
+                    img(src='@/assets/curso/img9.svg', style="width: 35px").m-auto
               h3.text-center Soporte técnico
           .col-sm-6.col-lg-2.mb-4.mb-lg-0
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/img9.svg', style="width: 35px").m-auto
+                    img(src='@/assets/curso/img10.svg', style="width: 35px").m-auto
               h3.text-center Retenciones
           .col-sm-6.col-lg-2.mb-4.mb-lg-0
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/img10.svg', style="width: 35px").m-auto
+                    img(src='@/assets/curso/img11.svg', style="width: 40px").m-auto
               h3.text-center Fidelizaciones
         .row.mb-4.mb-lg-5.justify-content-center
           .col-sm-6.col-lg-2.mb-4.mb-lg-0
@@ -103,35 +103,35 @@
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/img11.svg', style="width: 50px").m-auto
+                    img(src='@/assets/curso/img12.svg', style="width: 50px").m-auto
               h3.text-center Información
           .col-sm-6.col-lg-2.mb-4.mb-lg-0
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/img12.svg', style="width: 45px").m-auto
+                    img(src='@/assets/curso/img13.svg', style="width: 45px").m-auto
               h3.text-center Sondeos y encuestas
           .col-sm-6.col-lg-2.mb-4.mb-lg-0
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/img13.svg', style="width: 45px").m-auto
+                    img(src='@/assets/curso/img14.svg', style="width: 45px").m-auto
               h3.text-center Ventas
           .col-sm-6.col-lg-2.mb-4.mb-lg-0
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/img14.svg', style="width: 45px").m-auto
+                    img(src='@/assets/curso/img15.svg', style="width: 45px").m-auto
               h3.text-center Servicios postventa
           .col-sm-6.col-lg-2.mb-4.mb-lg-0
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
-                    img(src='@/assets/curso/img15.svg', style="width: 45px").m-auto
+                    img(src='@/assets/curso/img16.svg', style="width: 35px").m-auto
               h3.text-center Cobranza
         .row.align-items-center
           .col-lg-5.mb-4.mb-lg-0
@@ -158,39 +158,45 @@
               img(src='@/assets/curso/img2.png', style="width: 450px").m-auto
         .row.align-items-start.justify-content-center.my-3
           .col-lg-5.mb-4.mb-lg-0
-            p.mb-0.mt-2 Después de que Graham Bell patentó el invento del teléfono en los Estados Unidos, solamente se necesitaron 25 años para que una de cada 30 personas tuviera uno, lo que generó la aparición de la primera central telefónica en el país americano y cuyo funcionamiento consistía  en que cuando el abonado de origen levantaba el auricular, una operadora tomaba la comunicación para preguntarle con quien deseaba hablar, es allí donde nace la conocida frase en el mundo de los Contact Center “en que le puedo ayudar” (Sánchez y Sánchez, 2011).
+            p.mb-0.mt-2 Después de que Graham Bell patentó el invento del teléfono en los Estados Unidos, solamente se necesitaron 25 años para que una de cada 30 personas tuviera uno, lo que generó la aparición de la primera central telefónica en el país americano y cuyo funcionamiento consistía  en que cuando el abonado de origen levantaba el auricular, una operadora tomaba la comunicación para preguntarle con quien deseaba hablar, es allí donde nace la conocida frase en el mundo de los #[i Contact Center] #[b “en qué le puedo ayudar”] (Sánchez y Sánchez, 2011).
           .col-lg-5
             figure
               img(src='@/assets/curso/img3.png', style="width: 450px").m-auto
         .row.align-items-start.justify-content-center.my-3
           .col-lg-5.mb-4.mb-lg-0
-            p.mb-0.mt-2 A medida que el tráfico de llamadas persona a persona crecía, la intención de crear interacciones corporativas empieza a surgir y es en este momento es cuando se pone de manifiesto la necesidad de atender cada llamada enfocada a solucionar las necesidades de los clientes,  así lo visionó la empresa automovilística FORD, cuando en 1962 toma la iniciativa de empezar a contactar telefónicamente a sus clientes con el ánimo de facilitar el trabajo de sus empleados, consiguiendo entrevistas para sus vendedores, lo que les permitió incrementar su número de clientes y por ende incrementar las ventas, creando el primer Call Center del mundo y la primera campaña de telemarketing o en español de telemercadeo (Sánchez y Sánchez, 2011).
+            p.mb-0.mt-2 Posterior a la aparición de la primera central telefónica y con la evolución tecnológica de este sistema de comunicación, los contactos a través del teléfono se convirtieron en los más importantes en el mundo, por su fácil manejo, por la rapidez y sobre todo porque permite la comunicación de persona a persona.
+          .col-lg-5
+            figure
+              img(src='@/assets/curso/img20.png', style="width: 450px").m-auto
+        .row.align-items-start.justify-content-center.my-3
+          .col-lg-5.mb-4.mb-lg-0
+            p.mb-0.mt-2 A medida que el tráfico de llamadas persona a persona crecía, la intención de crear interacciones corporativas empieza a surgir y es en este momento cuando se pone de manifiesto la necesidad de atender cada llamada enfocada a solucionar las necesidades de los clientes,  así lo visionó la empresa automovilística FORD, cuando en 1962 toma la iniciativa de empezar a contactar telefónicamente a sus clientes con el ánimo de facilitar el trabajo de sus empleados, consiguiendo entrevistas para sus vendedores, lo que les permitió incrementar su número de clientes y por ende, incrementar las ventas, creando el primer #[i Call Center] del mundo y la primera campaña de #[i telemarketing] o en español de telemercadeo (Sánchez y Sánchez, 2011).
           .col-lg-5
             figure
               img(src='@/assets/curso/img4.png', style="width: 450px").m-auto
         .row.align-items-start.justify-content-center.my-3
           .col-lg-5.mb-4.mb-lg-0
-            p.mt-2 Teniendo en cuenta lo anterior es importante precisar que las operaciones de las centrales telefónicas orientadas al servicio y negocios tuvieron que pasar por una serie de cambios, debido a los avances tecnológicos, relacionados con la telefonía digital y satelital que al mismo tiempo las llevaron a su crecimiento (Sánchez y Sánchez, 2011).
-            p Por tal razón, hacia la década de los años 80 aparecen los primeros centros de llamadas y a partir de ese momento se les reconoce como Call Center.  Los primeros que se conocieron en el mundo fueron: Telefónica Movistar, Vodafone, Atento , France Telecom.
+            p.mt-2 Teniendo en cuenta lo anterior, es importante precisar que las operaciones de las centrales telefónicas orientadas al servicio y negocios, tuvieron que pasar por una serie de cambios, debido a los avances tecnológicos, relacionados con la telefonía digital y satelital que al mismo tiempo las llevaron a su crecimiento (Sánchez y Sánchez, 2011).
+            p Por tal razón, hacia la década de los años 80 aparecen los primeros centros de llamadas y a partir de ese momento se les reconoce como #[i Call Center].  Los primeros que se conocieron en el mundo fueron: Telefónica Movistar, Vodafone, Atento , France Telecom.
             p Las anteriores empresas apostaron sus operaciones principalmente en España, debido al auge que tenía este país en la telefonía móvil.
           .col-lg-5
             figure
               img(src='@/assets/curso/img5.png', style="width: 450px").m-auto
         .row.align-items-start.justify-content-center.my-3
           .col-lg-5.mb-4.mb-lg-0
-            p.mb-0.mt-2 Para 1990 el mundo ve cómo aquel gran invento  denominado Internet  empieza a instalarse en las sociedades actuales, permitiendo que los consumidores tuvieran acceso a mucha más información, volviéndolos mucho más exigentes y con mayores necesidades de atención, es allí donde los Call Center apoyados de los diferentes avances tecnológicos encuentran la manera de dar respuesta a los consumidores, implementado más canales de comunicación para dar paso a los que hoy conocemos como Contact Center (Fernández, 2011).
+            p.mb-0.mt-2 Para 1990 el mundo ve cómo aquel gran invento  denominado Internet  empieza a instalarse en las sociedades actuales, permitiendo que los consumidores tuvieran acceso a mucha más información, volviéndolos mucho más exigentes y con mayores necesidades de atención, es allí donde los #[i Call Center] apoyados de los diferentes avances tecnológicos encuentran la manera de dar respuesta a los consumidores, implementado más canales de comunicación para dar paso a los que hoy conocemos como #[i Contact Center] (Fernández, 2011).
           .col-lg-5
             figure
               img(src='@/assets/curso/img6.png', style="width: 450px").m-auto
         .row.align-items-start.justify-content-center.my-3
           .col-lg-5.mb-4.mb-lg-0
-            p.mb-0.mt-2 En cuanto a Colombia, la llegada de las empresas de #[i Call] y #[i Contact] Center data de los años 90, gracias a la excelente ubicación geográfica del país, la mano de obra calificada y los bajos costos de las operaciones, factores que le han permitido al país posisionarse como el número uno en Latinoamérica en exportación e internacionalización de servicios.
+            p.mb-0.mt-2 En cuanto a Colombia, la llegada de las empresas de #[i Call] y #[i Contact] Center data de los años 90, gracias a la excelente ubicación geográfica del país, la mano de obra calificada y los bajos costos de las operaciones, factores que le han permitido al país posicionarse como el número uno en Latinoamérica en exportación e internacionalización de servicios.
           .col-lg-5
             figure
               img(src='@/assets/curso/img7.png', style="width: 450px").m-auto
-    p.mb-5 En conclusión, se puede observar que la industria de los Contact Center y BPO en sus diferentes etapas de evolución y reinvención tanto en Colombia como en el mundo ha caminado a la par del auge de la telefonía satelital, digital y móvil, y por supuesto, por la aparición de la Internet, convirtiéndose en el pilar de las empresas, la cuales buscan mayor comunicación con sus clientes, por lo que  valdría la pena hacer la siguiente pregunta: 
+    p.mb-5 En conclusión, se puede observar que la industria de los #[i Contact Center] y BPO en sus diferentes etapas de evolución y reinvención tanto en Colombia como en el mundo ha caminado a la par del auge de la telefonía satelital, digital y móvil, y por supuesto, por la aparición de la Internet, convirtiéndose en el pilar de las empresas, la cuales buscan mayor comunicación con sus clientes, por lo que  valdría la pena hacer la siguiente pregunta: 
     h4.mb-5 ¿Cómo sería el siguiente capítulo de su historia en esta era de cambios sociales y económicos?
-    p.mb-5 En este recorrido por la industria del Contact Center BPO se ha podido observar una innovación permanente y el dinamismo que están a la orden del día, y no se podría dejar a un lado las características que este sector ha desarrollado desde su existencia y que resultan fundamentales a la hora de brindar servicios de calidad y excelencia, las más importantes se muestran en la siguiente figura:
+    p.mb-5 En este recorrido por la industria del #[i Contact Center] BPO se ha podido observar una innovación permanente y el dinamismo que están a la orden del día, y no se podría dejar a un lado las características que este sector ha desarrollado desde su existencia y que resultan fundamentales a la hora de brindar servicios de calidad y excelencia, las más importantes se muestran en la siguiente figura:
     .row.bg-color5.px-5.align-items-center
       .col-12
         ImagenInfografica.color-secundario
@@ -200,11 +206,11 @@
           .tarjeta.color-acento-botones1.p-3(x="32%" y="2%")
             p.mb-0 Provee a sus clientes corporativos servicios centralizados que garantizan beneficio mutuo.
           .tarjeta.color-acento-botones1.p-3(x="19%" y="30%")
-            p.mb-0 La mayor ventaja al contratar los servicios de un Contact Center BPO radica en la disminución de costos y administración de la operación.
+            p.mb-0 La mayor ventaja al contratar los servicios de un #[i Contact Center] BPO radica en la disminución de costos y administración de la operación.
           .tarjeta.color-acento-botones1.p-3(x="19%" y="70%")
             p.mb-0 Ofrece servicios inbound o servicios de entrada, en los que el cliente o usuario final es quien genera la interacción.
           .tarjeta.color-acento-botones1.p-3(x="32%" y="98%")
-            p.mb-0 Brinda servicios outbound o de salida, en los que las comunicaciones con los usuarios se generan desde el Contact Center.
+            p.mb-0 Brinda servicios outbound o de salida, en los que las comunicaciones con los usuarios se generan desde el #[i Contact Center].
           .tarjeta.color-acento-botones1.p-3(x="52%" y="99%")
             p.mb-0 Proporciona operaciones híbridas  en las cuales se combina el inbound y el outbound.
           .tarjeta.color-acento-botones1.p-3(x="66%" y="70%")
@@ -219,11 +225,11 @@
         .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 Estas modalidades se conocen como el “onshore” procesos externalizados en el mismo país y el “offshore” procesos desde y hasta cualquier país.
+            h4.mb-0 Estas modalidades se conocen como el #[span.txt-deco3 “onshore”] procesos externalizados en el mismo país y el #[span.txt-deco3 “offshore”] procesos desde y hasta cualquier país.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .p.mb-0 Avansis, 2021
-        p De acuerdo con lo anterior, el sector del Business Process Outsourcing es uno de los de mayor crecimiento en el mundo con un tamaño estimado de 23.000 millones de dólares, presentando un crecimiento anual del 19% en los últimos años (Colcob, 2018).
+        p De acuerdo con lo anterior, el sector del #[i Business Process Outsourcing] es uno de los de mayor crecimiento en el mundo con un tamaño estimado de 23.000 millones de dólares, presentando un crecimiento anual del 19 % en los últimos años (Colcob, 2018).
         p.mb-0 Actualmente Colombia es vista en el mundo como la segunda mejor plaza, después de México, para la implementación de negocios BPO. A continuación, se mencionan las principales razones:
       .col-lg-5.mb-4.mb-lg-0
         figure(data-aos="fade-right")
@@ -266,8 +272,8 @@
     #t_1_5
     .titulo-segundo
       h2 1.5 Infraestructura y organización
-    p La infraestructura del Contact Center BPO resulta ser un elemento fundamental para los ecosistemas de las diferentes campañas y operaciones, ya que de acuerdo con la infraestructura que posea y la forma como se integre depende el éxito del servicio y en el mejor de los casos genera un mayor valor agregado para los clientes consumidores.
-    p.mb-5 Los Contact Center cuentan con infraestructura:
+    p La infraestructura del #[i Contact Center] BPO resulta ser un elemento fundamental para los ecosistemas de las diferentes campañas y operaciones, ya que de acuerdo con la infraestructura que posea y la forma como se integre depende el éxito del servicio y en el mejor de los casos genera un mayor valor agregado para los clientes consumidores.
+    p.mb-5 Los #[i Contact Center] cuentan con infraestructura:
     .row.bg-color5.px-5.align-items-center
       .col-12
         .row.justify-content-center

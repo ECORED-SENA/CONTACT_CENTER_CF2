@@ -21,13 +21,13 @@
       .col-lg-5.p-4.bg-color14.d-flex(data-aos="fade-right")
         .row.align-items-center
           .col-12
-            p.mb-0.text-white Es por ello que en la actualidad todas las empresas deben establecer dentro de sus políticas internas, las políticas que vayan enfocadas al trabajo de la seguridad y salud de los trabajadores, no solo porque es un requerimiento legal en Colombia, si no porque el velar y dar prioridad al bienestar de todos los colaboradores dentro una compañía, garantiza estándares altos de productividad y efectividad en todas las actividades que el trabajador realiza.
+            p.mb-0.text-white Es por ello que en la actualidad todas las empresas deben establecer dentro de sus políticas internas, las políticas que vayan enfocadas al trabajo de la seguridad y salud de los trabajadores, no solo porque es un requerimiento legal en Colombia, sino porque el velar y dar prioridad al bienestar de todos los colaboradores dentro una compañía, garantiza estándares altos de productividad y efectividad en todas las actividades que el trabajador realiza.
     #t_4_1
     .titulo-segundo
-      h2 4.1 Enfermedades profesionales propias del Contact Center
+      h2 4.1 Enfermedades profesionales propias del #[i Contact Center]
     .row.align-items-end.mb-4
       .col-lg-7.mb-4.mb-lg-0
-        p Las empresas dedicadas al Contact Center BPO, al igual de todas las organizaciones laborales están llamadas a gestionar acciones inherentes a la seguridad y salud en el trabajo, no solo como un requerimiento legal en Colombia sino con el fin de promocionar, prevenir y controlar situaciones que puedan afectar o deteriorar tanto la salud mental como física de los trabajadores (Ley 1562 de 2012).
+        p Las empresas dedicadas al #[i Contact Center] BPO, al igual que todas las organizaciones laborales están llamadas a gestionar acciones inherentes a la seguridad y salud en el trabajo, no solo como un requerimiento legal en Colombia sino con el fin de promocionar, prevenir y controlar situaciones que puedan afectar o deteriorar tanto la salud mental como física de los trabajadores (Ley 1562 de 2012).
         p Para conocer las enfermedades profesionales que se pueden desarrollar trabajando en estas áreas es indispensable mencionar la definición de enfermedad laboral.  
         p Según el Artículo 4 de la Ley 1562 de 2012.
         .bloque-texto-b.color-secundario.p-4.mb-4
@@ -38,7 +38,7 @@
       .col-lg-5
         figure(data-aos="fade-left")
           img(src='@/assets/curso/img33.svg', style="width: 450px").m-auto
-    p.mb-5 Teniendo en cuenta la anterior definición es importante poder identificar cuáles son esas enfermedades profesionales que se pueden generar derivadas de las funciones desempeñadas en un Contact Center, sus síntomas y la forma de prevenirlas:
+    p.mb-5 Teniendo en cuenta la anterior definición es importante poder identificar cuáles son esas enfermedades profesionales que se pueden generar derivadas de las funciones desempeñadas en un #[i Contact Center], sus síntomas y la forma de prevenirlas:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1")
       .row(titulo="Tenosinovitis de estiloides radial").align-items-start
         .col-lg-6.mb-4.mb-lg-0
@@ -47,7 +47,7 @@
         .col-lg-6
           figure
             img(src='@/assets/curso/img14.png', style="width: 550px").m-auto
-      div(titulo="Síndrome del túnel carpiano")
+      div(titulo="Bursitis del olécranon")
         .row.align-items-start
           .col-lg-6.mb-4.mb-lg-0
             p Más conocida como codo de Popeye, son inflamaciones generadas en los órganos de las manos y brazos denominados bursas, que también limitan la movilidad de las extremidades.  Se generan debido a tiempos prolongados en actividades como digitación y actividades realizadas desde dispositivos móviles. 
@@ -69,7 +69,7 @@
         .row.align-items-start
           .col-lg-6.mb-4.mb-lg-0
             p Comúnmente se conocen como la pérdida total (afonía) o parcial (disfonía) de la voz y se puede presentar debido a la utilización de volúmenes muy altos al momento de hablar y al uso de malos hábitos vocales.
-            p.mb-0 Aunque no hay estudios que lo corroboren, se cree que esta enfermedad es de las más frecuentes en las operaciones de Contact Center BPO, debido a que las personas que se desempeñan en canales de voz deben cumplir con jornadas prolongadas de interacción con clientes, que generan fatiga en la garganta hasta producir afonías y disfonías.
+            p.mb-0 Aunque no hay estudios que lo corroboren, se cree que esta enfermedad es de las más frecuentes en las operaciones de #[i Contact Center] BPO, debido a que las personas que se desempeñan en canales de voz deben cumplir con jornadas prolongadas de interacción con clientes, que generan fatiga en la garganta hasta producir afonías y disfonías.
           .col-lg-6
             figure
               img(src='@/assets/curso/img17.png', style="width: 550px").m-auto
@@ -133,29 +133,29 @@
                   img(src='@/assets/curso/img35.svg', style="width: 60px").m-auto
                 h4.text-center Leve
                 hr
-                h5.text-center.mb-5 Síntomas psicológicos
+                h5.text-center.mb-3 Síntomas psicológicos
                 ul.lista-ul.mb-4
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Poca operatividad
+                    p.text-small.mt-1.mb-0 Poca operatividad
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Pesimismo
+                    p.text-small.mt-1.mb-0 Pesimismo
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Ausencia laboral
+                    p.text-small.mt-1.mb-0 Ausencia laboral
               .col-12.bg-color13
-                h5.text-center.mb-5 Síntomas físicos
+                h5.text-center.mb-3 Síntomas físicos
                 ul.lista-ul
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Cefalea
+                    p.text-small.mt-1.mb-0 Cefalea
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Dolor de espalda
+                    p.text-small.mt-1.mb-0 Dolor de espalda
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Lumbalgias
+                    p.text-small.mt-1.mb-0 Lumbalgias
           .col-6.col-lg-3
             .row
               .col-12.bg-color12
@@ -163,26 +163,26 @@
                   img(src='@/assets/curso/img36.svg', style="width: 60px").m-auto
                 h4.text-center Moderado
                 hr
-                h5.text-center.mb-5 Síntomas psicológicos
+                h5.text-center.mb-3 Síntomas psicológicos
                 ul.lista-ul
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Insomnio
+                    p.text-small.mt-1.mb-0 Insomnio
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Déficit de atención y concentración
+                    p.text-small.mt-1.mb-0 Déficit de atención y concentración
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Tendencia a la automedicación
+                    p.text-small.mt-1.mb-0 Tendencia a la automedicación
               .col-12.bg-color13
-                h5.text-center.mb-5 Síntomas físicos
+                h5.text-center.mb-3 Síntomas físicos
                 ul.lista-ul
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Fatiga crónica
+                    p.text-small.mt-1.mb-0 Fatiga crónica
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Aparición de alergias
+                    p.text-small.mt-1.mb-0 Aparición de alergias
           .col-6.col-lg-3
             .row
               .col-12.bg-color12
@@ -190,32 +190,32 @@
                   img(src='@/assets/curso/img37.svg', style="width: 60px").m-auto
                 h4.text-center Grave
                 hr
-                h5.text-center.mb-5 Síntomas psicológicos
+                h5.text-center.mb-3 Síntomas psicológicos
                 ul.lista-ul
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Mayor ausentismo laboral
+                    p.text-small.mt-1.mb-0 Mayor ausentismo laboral
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Cambios bruscos de humor
+                    p.text-small.mt-1.mb-0 Cambios bruscos de humor
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Disminución de la calidad del servicio prestado
+                    p.text-small.mt-1.mb-0 Disminución de la calidad del servicio prestado
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Incremento de los conflictos con los compañeros
+                    p.text-small.mt-1.mb-0 Incremento de los conflictos con los compañeros
               .col-12.bg-color13
-                h5.text-center.mb-5 Síntomas físicos
+                h5.text-center.mb-3 Síntomas físicos
                 ul.lista-ul
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Úlceras y desordenes gastrointestinales
+                    p.text-small.mt-1.mb-0 Úlceras y desordenes gastrointestinales
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Palpitaciones
+                    p.text-small.mt-1.mb-0 Palpitaciones
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Dolor de cabeza intenso y permanente
+                    p.text-small.mt-1.mb-0 Dolor de cabeza intenso y permanente
           .col-6.col-lg-3
             .row
               .col-12.bg-color12
@@ -223,32 +223,32 @@
                   img(src='@/assets/curso/img38.svg', style="width: 60px").m-auto
                 h4.text-center Extrema
                 hr
-                h5.text-center.mb-5 Síntomas psicológicos
+                h5.text-center.mb-3 Síntomas psicológicos
                 ul.lista-ul
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Crisis existencial
+                    p.text-small.mt-1.mb-0 Crisis existencial
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Depresión crónica
+                    p.text-small.mt-1.mb-0 Depresión crónica
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Riesgos de suicidio
+                    p.text-small.mt-1.mb-0 Riesgos de suicidio
               .col-12.bg-color13
-                h5.text-center.mb-5 Síntomas físicos
+                h5.text-center.mb-3 Síntomas físicos
                 ul.lista-ul
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Crisis asmáticas
+                    p.text-small.mt-1.mb-0 Crisis asmáticas
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Hipertensión
+                    p.text-small.mt-1.mb-0 Hipertensión
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Dolores en el pecho
+                    p.text-small.mt-1.mb-0 Dolores en el pecho
                   li 
                     i.fas.fa-circle(style="color: #3E2EA6")
-                    | Pérdida de peso
+                    p.text-small.mt-1.mb-0 Pérdida de peso
     .row.bg-color4.px-5
       .col-12
         .row.justify-content-center.mt-5
