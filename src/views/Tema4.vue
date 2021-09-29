@@ -18,7 +18,7 @@
       .col-lg-5.bg-color6.p-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/img32.svg', style="width: 450px").m-auto
-      .col-lg-5.p-4.bg-color7.d-flex(data-aos="fade-right")
+      .col-lg-5.p-4.bg-color14.d-flex(data-aos="fade-right")
         .row.align-items-center
           .col-12
             p.mb-0.text-white Es por ello que en la actualidad todas las empresas deben establecer dentro de sus políticas internas, las políticas que vayan enfocadas al trabajo de la seguridad y salud de los trabajadores, no solo porque es un requerimiento legal en Colombia, si no porque el velar y dar prioridad al bienestar de todos los colaboradores dentro una compañía, garantiza estándares altos de productividad y efectividad en todas las actividades que el trabajador realiza.
@@ -106,13 +106,22 @@
         p Es un tipo de estrés prolongado, que en la mayoría de los casos se genera cuando el profesional o colaborador empieza a experimentar la sensación de realizar muchos esfuerzos laborales que no resultan ser compensados. 
         p El Síndrome de Burnout también conocido como el síndrome del aniquilamiento es considerado como una enfermedad laboral que afecta física, emocional o psicológicamente.
         p #[span.txt-deco2 En cuanto a los síntomas que genera este síndrome se hace necesario clasificarlos desde los siguientes aspectos:]
-    .row.mt-3.mb-5
-      .col-lg-6.p-4
-        figure(data-aos="fade-right")
-          img(src='@/assets/curso/img20.png', style="width: 550px").m-auto
-      .col-lg-6.p-4
-        figure(data-aos="fade-left")
-          img(src='@/assets/curso/img21.png', style="width: 550px").m-auto
+    .row.mt-5.mb-5.justify-content-around
+      .col-lg-5.p-4.bg-color15.mb-4.mb-lg-0
+        .row.justify-content-end
+          .col-7
+            p.text-white.me-5.mt-5.mb-5 El individuo puede experimentar irritabilidad, ansiedad, depresión, frustración, aburrimiento, aislamiento, enfado frecuente y cambios bruscos de humor, etc.
+        .row
+          .col-7
+            h4.text-white.mt-5.mb-5 Síntomas emocionales
+      .col-lg-5.p-4.bg-color16
+        .row.justify-content-end
+          .col-7
+            p.text-white.me-5.mt-5.mb-5 Fatiga muscular, dolor muscular, insomnio, pérdida de peso, dolor de cabeza, aparición de alergias y resfriados frecuentes.
+            br.mb-3
+        .row
+          .col-7
+            h4.text-white.mt-5.mb-5 Síntomas físicos
     p.mb-5 De igual forma y teniendo en cuenta los síntomas que genera este síndrome, se ha podido identificar cuatro estados de la evolución de la enfermedad, definidos en la siguiente tabla:
     .row.bg-color5.px-5
       .col-12
@@ -127,25 +136,25 @@
                 h5.text-center.mb-5 Síntomas psicológicos
                 ul.lista-ul.mb-4
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Poca operatividad
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Pesimismo
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Ausencia laboral
               .col-12.bg-color13
                 h5.text-center.mb-5 Síntomas físicos
                 ul.lista-ul
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Cefalea
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Dolor de espalda
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Lumbalgias
           .col-6.col-lg-3
             .row
@@ -157,22 +166,22 @@
                 h5.text-center.mb-5 Síntomas psicológicos
                 ul.lista-ul
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Insomnio
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Déficit de atención y concentración
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Tendencia a la automedicación
               .col-12.bg-color13
                 h5.text-center.mb-5 Síntomas físicos
                 ul.lista-ul
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Fatiga crónica
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Aparición de alergias
           .col-6.col-lg-3
             .row
@@ -184,28 +193,28 @@
                 h5.text-center.mb-5 Síntomas psicológicos
                 ul.lista-ul
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Mayor ausentismo laboral
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Cambios bruscos de humor
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Disminución de la calidad del servicio prestado
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Incremento de los conflictos con los compañeros
               .col-12.bg-color13
                 h5.text-center.mb-5 Síntomas físicos
                 ul.lista-ul
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Úlceras y desordenes gastrointestinales
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Palpitaciones
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Dolor de cabeza intenso y permanente
           .col-6.col-lg-3
             .row
@@ -217,28 +226,28 @@
                 h5.text-center.mb-5 Síntomas psicológicos
                 ul.lista-ul
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Crisis existencial
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Depresión crónica
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Riesgos de suicidio
               .col-12.bg-color13
                 h5.text-center.mb-5 Síntomas físicos
                 ul.lista-ul
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Crisis asmáticas
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Hipertensión
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Dolores en el pecho
                   li 
-                    i.far.fa-circle(style="color: #3E2EA6")
+                    i.fas.fa-circle(style="color: #3E2EA6")
                     | Pérdida de peso
     .row.bg-color4.px-5
       .col-12

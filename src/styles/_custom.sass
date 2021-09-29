@@ -32,7 +32,7 @@
 .img-infografica.color-secundario .img-infografica__item__dot::before, .img-infografica.color-secundario .img-infografica__item__dot::after, .img-infografica.color-secundario .img-infografica-b__item__dot::before, .img-infografica.color-secundario .img-infografica-b__item__dot::after, .img-infografica-b.color-secundario .img-infografica__item__dot::before, .img-infografica-b.color-secundario .img-infografica__item__dot::after, .img-infografica-b.color-secundario .img-infografica-b__item__dot::before, .img-infografica-b.color-secundario .img-infografica-b__item__dot::after
   background-color: #EF6C00
 
-.tarjeta.color-acento-botones
+.tarjeta.color-acento-botones1
   background-color: white
   p
     color: #0F0140
@@ -57,14 +57,30 @@
 .titulo-segundo::after
   border-left: solid 50px #05DBF2
 
+.titulo-sexto p
+  display: inline-block
+  margin-right: 10px
+  margin-bottom: 0
+
 .bg-color1
   background-image: url(../assets/curso/img3.svg)
   background-repeat: no-repeat
   background-size: cover
 
 .bg-color2
-  width: 200px
-  height: 240px
+  height: 180px
+  figure,h3
+    z-index: 1
+    position: relative
+  &::before
+    content: ""
+    position: relative
+    bottom: -160px
+    width: 99%
+    height: 6%
+    background-color: #05DBF2
+    z-index: 2
+    display: block
 
 .bg-color3
   background-image: url(../assets/curso/img5.svg)
@@ -92,6 +108,72 @@
 
 .bg-color7
   background-color: #8A7CBF
+  p
+    z-index: 1
+  &::before
+    content: ""
+    position: relative
+    bottom: -95px
+    left: -60px
+    width: 0%
+    height: 0%
+    border-right: 50px solid #8A7CBF
+    border-top: 40px solid transparent
+    border-bottom: 40px solid transparent
+    z-index: 2
+    display: block
+
+.bg-color14
+  background-color: #8A7CBF
+  p
+    z-index: 1
+  &::before
+    content: ""
+    position: relative
+    bottom: -130px
+    left: -60px
+    width: 0%
+    height: 0%
+    border-right: 50px solid #8A7CBF
+    border-top: 40px solid transparent
+    border-bottom: 40px solid transparent
+    z-index: 2
+    display: block
+
+@media screen and ( max-width: 990px )
+  .bg-color7
+    background-color: #8A7CBF
+    p
+      z-index: 1
+    &::before
+      content: ""
+      position: relative
+      top: -80px
+      left: 40%
+      width: 0%
+      height: 0%
+      border-left: 40px solid transparent
+      border-bottom: 30px solid #8A7CBF
+      border-right: 40px solid transparent
+      z-index: 2
+      display: block
+
+  .bg-color14
+    background-color: #8A7CBF
+    p
+      z-index: 1
+    &::before
+      content: ""
+      position: relative
+      top: -80px
+      left: 40%
+      width: 0%
+      height: 0%
+      border-left: 40px solid transparent
+      border-bottom: 30px solid #8A7CBF
+      border-right: 40px solid transparent
+      z-index: 2
+      display: block
 
 .bg-color8
   background-image: url(../assets/curso/img11.png)
@@ -136,3 +218,108 @@
   color: #0F0140
   background: #DAD6F7
   padding: 3px
+
+.bg-color15
+  background-image: url(../assets/curso/img22.png)
+  background-repeat: no-repeat
+  background-size: cover
+  h4
+    background-color: #3E2EA6
+    padding-top: 20px
+    padding-left: 30px
+    padding-right: 30px
+    padding-bottom: 20px
+    margin-left: -23px
+
+.bg-color16
+  background-image: url(../assets/curso/img23.png)
+  background-repeat: no-repeat
+  background-size: cover
+  h4
+    background-color: #3E2EA6
+    padding-top: 20px
+    padding-left: 30px
+    padding-right: 30px
+    padding-bottom: 20px
+    margin-left: -23px
+
+.contenedor1
+  margin: 0px
+  padding: 0px
+  box-sizing: border-box
+  width: 100%
+  display: flex
+  justify-content: center
+  align-items: center
+  height: 41vh
+
+.contenedor1 figure
+  position:relative
+  height: 250px
+  width: 350px
+  overflow: hidden
+  border-radius: 6px
+  box-shadow: 0px 15px 25px rgba(0,0,0,0.20)
+
+.contenedor1 figure img
+  width: 100%
+  height: 100%
+  transition: all 400ms ease-out
+  will-change: transform
+
+.contenedor1 figure .capa1
+  position: relative
+  top: -330px
+  left: -75px
+  width: 500px
+  height: 500px
+  background: rgba(60,46,166,0.3)
+  transition: all 400ms ease-out
+  opacity: 0
+  visibility: hidden
+  text-align: center
+
+.contenedor1 figure:hover > .capa1
+  opacity: 1
+  visibility: visible
+
+.contenedor1 figure:hover > .capa1 h3
+  top: -40px
+  margin-top: 70px
+  margin-bottom: 15px
+  padding-top: 40px
+  top: 20px
+
+.contenedor1 figure:hover > img
+  transform: scale(1.3)
+
+.contenedor1 figure .capa1 h3
+  color: #EF6C00
+  font-weight: bolder
+  font-size: 30px
+  transition: all 400ms ease-out
+  margin-top: 30px
+  line-height: 1.5
+  width: 10%
+  max-width: 220px
+  left: 140px
+  top: 11px
+  position: relative
+
+.contenedor1 figure .capa1 p
+  color: #fff
+  font-size: 15px
+  line-height: 1.5
+  width: 100%
+  max-width: 220px
+  margin-left: 160px
+  position: relative
+  top: -51px
+  left: 45px
+  padding-top: 11px
+  padding-bottom: 11.5px
+  padding-right: 40px
+  padding-left: 20px
+
+.bg-color17
+  background-color: #3E2EA6

@@ -16,31 +16,28 @@
       .col-lg-5
         figure(data-aos="fade-left")
           img(src='@/assets/curso/img25.svg', style="width: 450px").m-auto
-    .row.mb-5.justify-content-center
-      .col-7.col-lg-4.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
-          .indicador--hover(v-if="indicadorTarjetaFlip")
-          .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/img8.png')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5
-              h1(style="color: #EF6C00") 01
-              p La computadora y sus componentes físicos.
-      .col-7.col-lg-4.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
-          .indicador--hover(v-if="indicadorTarjetaFlip")
-          .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/img9.png')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5
-              h1(style="color: #EF6C00") 02
-              p El teléfono, el cual se requiere si el centro de contacto no cuenta con un sistema de telefonía por Internet.
-      .col-7.col-lg-4.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
-          .indicador--hover(v-if="indicadorTarjetaFlip")
-          .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/img10.png')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5
-              h1(style="color: #EF6C00") 03
-              p La diadema o dispositivo manos libres, entre otros.
+    .row.mb-5
+      .col-lg-4.mb-4.mb-lg-0
+        .contenedor1
+          figure
+            img(src='@/assets/curso/img8.png')
+            .capa1
+              h3 #[span.bg-color17.p-3 01]
+              p.bg-color17 La computadora y sus componentes físicos.
+      .col-lg-4.mb-4.mb-lg-0
+        .contenedor1
+          figure
+            img(src='@/assets/curso/img9.png')
+            .capa1
+              h3 #[span.bg-color17.p-3 02]
+              p.bg-color17 El teléfono, el cual se requiere si el centro de contacto no cuenta con un sistema de telefonía por Internet.
+      .col-lg-4
+        .contenedor1
+          figure
+            img(src='@/assets/curso/img10.png')
+            .capa1
+              h3 #[span.bg-color17.p-3 03]
+              p.bg-color17 La diadema o dispositivo manos libres, entre otros.
     p Teniendo claras las herramientas de hardware que se necesitan, conozca que el software es el encargado de gestionar la parte lógica y física de un sistema computacional, por lo que administra los recursos y características de las operaciones en las cuales están programados.
     p.mb-5 Existen varios software para Contact Center, los cuales tienen dentro de sus funcionalidades las siguientes:
     .row.bg-color3.px-5
