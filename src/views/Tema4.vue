@@ -136,25 +136,25 @@
                 h5.text-center.mb-3 Síntomas psicológicos
                 ul.lista-ul.mb-4
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Poca operatividad
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Pesimismo
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Ausencia laboral
               .col-12.bg-color13
                 h5.text-center.mb-3 Síntomas físicos
                 ul.lista-ul
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Cefalea
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Dolor de espalda
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Lumbalgias
           .col-6.col-lg-3
             .row
@@ -166,22 +166,22 @@
                 h5.text-center.mb-3 Síntomas psicológicos
                 ul.lista-ul
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Insomnio
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Déficit de atención y concentración
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Tendencia a la automedicación
               .col-12.bg-color13
                 h5.text-center.mb-3 Síntomas físicos
                 ul.lista-ul
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Fatiga crónica
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Aparición de alergias
           .col-6.col-lg-3
             .row
@@ -193,28 +193,28 @@
                 h5.text-center.mb-3 Síntomas psicológicos
                 ul.lista-ul
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Mayor ausentismo laboral
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Cambios bruscos de humor
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Disminución de la calidad del servicio prestado
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Incremento de los conflictos con los compañeros
               .col-12.bg-color13
                 h5.text-center.mb-3 Síntomas físicos
                 ul.lista-ul
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Úlceras y desordenes gastrointestinales
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Palpitaciones
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Dolor de cabeza intenso y permanente
           .col-6.col-lg-3
             .row
@@ -226,28 +226,28 @@
                 h5.text-center.mb-3 Síntomas psicológicos
                 ul.lista-ul
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Crisis existencial
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Depresión crónica
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Riesgos de suicidio
               .col-12.bg-color13
                 h5.text-center.mb-3 Síntomas físicos
                 ul.lista-ul
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Crisis asmáticas
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Hipertensión
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Dolores en el pecho
                   li 
-                    i.fas.fa-circle(style="color: #3E2EA6")
+                    i.lista-ul__vineta(style="color: #3E2EA6")
                     p.text-small.mt-1.mb-0 Pérdida de peso
     .row.bg-color4.px-5
       .col-12

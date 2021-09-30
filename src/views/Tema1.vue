@@ -47,13 +47,13 @@
             .cajon.color-primario.p-4
               ul.lista-ul.ms-3
                 li 
-                  i.fas.fa-circle(style="color: #3E2EA6" width="1px")
+                  i.lista-ul__vineta(style="color: #3E2EA6")
                   | Canales de comunicación presenciales.
                 li 
-                  i.fas.fa-circle(style="color: #3E2EA6")
+                  i.lista-ul__vineta(style="color: #3E2EA6")
                   | De voz (teléfono).
                 li 
-                  i.fas.fa-circle(style="color: #3E2EA6")
+                  i.lista-ul__vineta(style="color: #3E2EA6")
                   | Medios electrónicos (correo, chats, redes sociales, SMS).
           .col-lg-6
             figure(data-aos="fade-right")
@@ -241,22 +241,22 @@
       .col-lg-7.mb-4.mb-lg-0.order-1.order-lg-2
         ul.lista-ul
           li 
-            i.fas.fa-circle(style="color: #3E2EA6")
+            i.lista-ul__vineta(style="color: #3E2EA6")
             | Su estratégica ubicación geográfica.
           li 
-            i.fas.fa-circle(style="color: #3E2EA6")
+            i.lista-ul__vineta(style="color: #3E2EA6")
             | Los bajos costos para las diferentes operaciones.
           li 
-            i.fas.fa-circle(style="color: #3E2EA6")
+            i.lista-ul__vineta(style="color: #3E2EA6")
             | La gran cantidad de talento humano calificado.
           li 
-            i.fas.fa-circle(style="color: #3E2EA6")
+            i.lista-ul__vineta(style="color: #3E2EA6")
             | El aumento del bilingüismo en la población de jóvenes colombianos.
           li 
-            i.fas.fa-circle(style="color: #3E2EA6")
+            i.lista-ul__vineta(style="color: #3E2EA6")
             | El crecimiento exponencial de las empresas prestadoras de servicios de BPO.
           li 
-            i.fas.fa-circle(style="color: #3E2EA6")
+            i.lista-ul__vineta(style="color: #3E2EA6")
             | El apoyo gubernamental.
     p.mb-5 Los anteriores elementos permiten concluir que:
     .row.justify-content-center
@@ -283,7 +283,7 @@
                 img(src='@/assets/curso/img22.svg' alt='AvatarTop')
               .tarjeta.color-acento-botones
                 .p-4
-                  p.mb-0 #[b(style="color: #000000") Tecnológica]: se encuentra lo que se conoce como estructura eléctrica, la cual está conformada por el cableado eléctrico dedicado a los equipos de cómputo, UPS (Uninterruptible power supply) o sistemas de alimentación ininterrumpida, plantas eléctricas de emergencia y los polos a tierra que permiten proteger las instalaciones eléctricas de posibles sobrecargas.
+                  p.mb-0(style="color: #000000") #[b(style="color: #000000") Tecnológica]: se encuentra lo que se conoce como estructura eléctrica, la cual está conformada por el cableado eléctrico dedicado a los equipos de cómputo, UPS (#[i(style="color: #000000") Uninterruptible power supply]) o sistemas de alimentación ininterrumpida, plantas eléctricas de emergencia y los polos a tierra que permiten proteger las instalaciones eléctricas de posibles sobrecargas.
           figure.mb-5(data-aos="fade-right")
             img(src='@/assets/curso/img23.svg', style="width: 900px").m-auto
           .col-lg-9
@@ -292,7 +292,7 @@
                 img(src='@/assets/curso/img24.svg' alt='AvatarTop')
               .tarjeta.color-acento-botones
                 .p-4
-                  p.mb-0 #[b(style="color: #000000") Física]: hace referencia al espacio donde debe estar ubicada la plataforma de operación, por lo que su ventilación debe ser adecuada, de la misma forma la iluminación debe ser en lo posible natural, adicionalmente los puestos de trabajo deben cumplir estándares de ergonomía y salud y seguridad en el trabajo.
+                  p.mb-0(style="color: #000000") #[b(style="color: #000000") Física]: hace referencia al espacio donde debe estar ubicada la plataforma de operación, por lo que su ventilación debe ser adecuada, de la misma forma la iluminación debe ser en lo posible natural, adicionalmente los puestos de trabajo deben cumplir estándares de ergonomía y salud y seguridad en el trabajo.
   
 </template>
 
