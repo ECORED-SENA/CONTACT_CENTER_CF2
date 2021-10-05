@@ -190,7 +190,7 @@
               img(src='@/assets/curso/img6.png', style="width: 450px").m-auto
         .row.align-items-start.justify-content-center.my-3
           .col-lg-5.mb-4.mb-lg-0
-            p.mb-0.mt-2 En cuanto a Colombia, la llegada de las empresas de #[i Call] y #[i Contact] Center data de los años 90, gracias a la excelente ubicación geográfica del país, la mano de obra calificada y los bajos costos de las operaciones, factores que le han permitido al país posicionarse como el número uno en Latinoamérica en exportación e internacionalización de servicios.
+            p.mb-0.mt-2 En cuanto a Colombia, la llegada de las empresas de #[i Call] y #[i Contact Center] data de los años 90, gracias a la excelente ubicación geográfica del país, la mano de obra calificada y los bajos costos de las operaciones, factores que le han permitido al país posicionarse como el número uno en Latinoamérica en exportación e internacionalización de servicios.
           .col-lg-5
             figure
               img(src='@/assets/curso/img7.png', style="width: 450px").m-auto
