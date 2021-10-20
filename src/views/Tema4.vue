@@ -9,7 +9,7 @@
       h1 Seguridad y salud en el trabajo
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/5CF3HZdu6Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 El trabajo es uno de los aspectos de mayor relevancia para el ser humano, ya que le permite estar interactuando permanentemente con otras personas, otros contextos y realizar diferentes actividades, las cuales le generan una remuneración económica que al final resulta ser muy importante para suplir diferentes necesidades.  Esta situación ha obligado a que diferentes organizaciones de orden mundial hagan investigación sobre el tema y a partir de allí, establecen una serie de requisitos que permitan que el trabajador pueda desempeñar su labor en las mejores condiciones de salud y seguridad.
     .row.justify-content-center.mb-5
       .col-lg-10.mb-5
