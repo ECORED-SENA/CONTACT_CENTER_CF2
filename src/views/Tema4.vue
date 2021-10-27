@@ -33,7 +33,7 @@
         .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 Una enfermedad laboral está definida como la enfermedad laboral contraída como resultado de la exposición a factores de riesgo inherentes a la actividad laboral o del medio en el que el trabajador se ha visto obligado a trabajar.
+            h4.mb-0 Una enfermedad laboral está definida como la enfermedad contraída como resultado de la exposición a factores de riesgo inherentes a la actividad laboral o del medio en el que el trabajador se ha visto obligado a trabajar.
             i.fas.fa-quote-right
       .col-lg-5
         figure(data-aos="fade-left")
@@ -97,14 +97,14 @@
           .col-lg-6
             figure
               img(src='@/assets/curso/img19.png', style="width: 550px").m-auto
-    p.mb-4 Por último, se presenta una enfermedad importante, el Síndrome de Burnout o desgaste profesional.
+    p.mb-4 Por último, se presenta una enfermedad importante, el Síndrome de #[i Burnout] o desgaste profesional.
     .row.align-items-center
       .col-lg-5.mb-4.mb-lg-0
         figure(data-aos="fade-right")
           img(src='@/assets/curso/img34.svg', style="width: 550px").m-auto
       .col-lg-7
         p Es un tipo de estrés prolongado, que en la mayoría de los casos se genera cuando el profesional o colaborador empieza a experimentar la sensación de realizar muchos esfuerzos laborales que no resultan ser compensados. 
-        p El Síndrome de Burnout también conocido como el síndrome del aniquilamiento es considerado como una enfermedad laboral que afecta física, emocional o psicológicamente.
+        p El Síndrome de #[i Burnout] también conocido como el síndrome del aniquilamiento es considerado como una enfermedad laboral que afecta física, emocional o psicológicamente.
         p #[span.txt-deco2 En cuanto a los síntomas que genera este síndrome se hace necesario clasificarlos desde los siguientes aspectos:]
     .row.mt-5.mb-5.justify-content-around
       .col-lg-5.p-4.bg-color15.mb-4.mb-lg-0

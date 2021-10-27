@@ -28,7 +28,7 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/img28.svg', style="width: 550px").m-auto
     p Por ejemplo, es muy usual que en operaciones de servicio al cliente cuando las interacciones con los clientes se dan por el canal telefónico se observe que los tráficos de llamadas son muy altos y, se corre el riesgo de presentarse el desborde de llamadas o abandonos de las mismas.
-    p.mb-5 El plan a aplicar dentro de la operación para esta situación sería enrutar parte del tráfico de llamadas a otras áreas, donde se pueda contar con la cantidad de asesores necesarios para atender todas las llamadas y minimizar el impacto negativo en los indicadores de gestión.  Este ejemplo permite apreciar cómo las contingencias en una empresa de Contact Center BPO se pueden proyectar no solo en situaciones no planeadas, sino también para eventos repetitivos, pero que no son frecuentes.
+    p.mb-5 El plan a aplicar dentro de la operación para esta situación sería enrutar parte del tráfico de llamadas a otras áreas, donde se pueda contar con la cantidad de asesores necesarios para atender todas las llamadas y minimizar el impacto negativo en los indicadores de gestión.  Este ejemplo permite apreciar cómo las contingencias en una empresa de #[i Contact Center] BPO se pueden proyectar no solo en situaciones no planeadas, sino también para eventos repetitivos, pero que no son frecuentes.
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-5.bg-color6.p-4
         figure
@@ -37,8 +37,8 @@
         .row.align-items-center
           .col-12
             p.mb-0.text-white Se debe precisar que antes de pensar en la construcción de un plan de contingencia para una operación de BPO es importante identificar hacia dónde va enrutado, al mismo tiempo que se debe delimitar muy bien su aplicación y los recursos con que se cuenta para la implementación, lo cual obliga a tener en cuenta algunos elementos.
-    p Ahora bien, en las compañías de Contact Center BPO se manejan operaciones que suelen ser muy robustas y complejas, por ello es necesario que estas, a su vez se apalanquen con planes de contingencia que realmente permitan dar respuesta a los diferentes eventos no planeados y que se puedan presentar dentro de las operaciones.
-    p.mb-5 Por lo cual, las empresas de Contact Center BPO están en la obligación de estructurar planes de contingencia que den respuesta a tres frentes fundamentales, los cuales son:
+    p Ahora bien, en las compañías de #[i Contact Center] BPO se manejan operaciones que suelen ser muy robustas y complejas, por ello es necesario que estas, a su vez se apalanquen con planes de contingencia que realmente permitan dar respuesta a los diferentes eventos no planeados y que se puedan presentar dentro de las operaciones.
+    p.mb-5 Por lo cual, las empresas de #[i Contact Center] BPO están en la obligación de estructurar planes de contingencia que den respuesta a tres frentes fundamentales, los cuales son:
     #carouselExampleIndicators.carousel.slide.mb-5(data-bs-ride='carousel')
       .carousel-indicators
         button.active(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='0' aria-current='true' aria-label='Slide 1')

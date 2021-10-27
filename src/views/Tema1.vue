@@ -60,15 +60,15 @@
               img(src='@/assets/curso/img6.svg', style="width: 450px").m-auto
         p Todo esto unido a su estrategia de operación, logra que las empresas tengan comunicación permanente con sus clientes de una manera asertiva, eficiente y a tiempo.
         p.mb-5 Dentro de los servicios que puede ofrecer un #[i Contact Center] se destacan:
-        .row.mb-4.justify-content-center
-          .col-sm-6.col-lg-2.mb-4.mb-lg-0
+        .row.justify-content-center
+          .col-lg-4.col-xl-2.mb-4.mb-lg-4
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
                     img(src='@/assets/curso/img7.svg', style="width: 40px").m-auto
               h3.text-center Atención al cliente
-          .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          .col-lg-4.col-xl-2.mb-4.mb-lg-4
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
@@ -76,21 +76,21 @@
                     img(src='@/assets/curso/img8.svg', style="width: 40px").m-auto
               h3.text-center.mb-0 (PQRSF)
               p.text-small.text-center.text-small.mb-0 Servicios de peticiones, quejas, reclamos, sugerencias y felicitaciones
-          .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          .col-lg-4.col-xl-2.mb-4.mb-lg-4
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
                     img(src='@/assets/curso/img9.svg', style="width: 35px").m-auto
               h3.text-center Soporte técnico
-          .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          .col-lg-4.col-xl-2.mb-4.mb-lg-4
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
                     img(src='@/assets/curso/img10.svg', style="width: 35px").m-auto
               h3.text-center Retenciones
-          .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          .col-lg-4.col-xl-2.mb-4.mb-lg-4
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
@@ -98,35 +98,35 @@
                     img(src='@/assets/curso/img11.svg', style="width: 40px").m-auto
               h3.text-center Fidelizaciones
         .row.mb-4.mb-lg-5.justify-content-center
-          .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          .col-lg-4.col-xl-2.mb-4.mb-lg-4
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
                     img(src='@/assets/curso/img12.svg', style="width: 50px").m-auto
               h3.text-center Información
-          .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          .col-lg-4.col-xl-2.mb-4.mb-lg-4
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
                     img(src='@/assets/curso/img13.svg', style="width: 45px").m-auto
               h3.text-center Sondeos y encuestas
-          .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          .col-lg-4.col-xl-2.mb-4.mb-lg-4
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
                     img(src='@/assets/curso/img14.svg', style="width: 45px").m-auto
               h3.text-center Ventas
-          .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          .col-lg-4.col-xl-2.mb-4.mb-lg-4
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
                   figure
                     img(src='@/assets/curso/img15.svg', style="width: 45px").m-auto
               h3.text-center Servicios postventa
-          .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          .col-lg-4.col-xl-2.mb-4.mb-lg-4
             .tarjeta--boton.color-primario.p-3.bg-color2
               .row.justify-content-center.mb-3
                 .col-7
@@ -208,11 +208,11 @@
           .tarjeta.color-acento-botones1.p-3(x="19%" y="30%")
             p.mb-0 La mayor ventaja al contratar los servicios de un #[i Contact Center] BPO radica en la disminución de costos y administración de la operación.
           .tarjeta.color-acento-botones1.p-3(x="19%" y="70%")
-            p.mb-0 Ofrece servicios inbound o servicios de entrada, en los que el cliente o usuario final es quien genera la interacción.
+            p.mb-0 Ofrece servicios #[i inbound] o servicios de entrada, en los que el cliente o usuario final es quien genera la interacción.
           .tarjeta.color-acento-botones1.p-3(x="32%" y="98%")
-            p.mb-0 Brinda servicios outbound o de salida, en los que las comunicaciones con los usuarios se generan desde el #[i Contact Center].
+            p.mb-0 Brinda servicios #[i outbound  ] o de salida, en los que las comunicaciones con los usuarios se generan desde el #[i Contact Center].
           .tarjeta.color-acento-botones1.p-3(x="52%" y="99%")
-            p.mb-0 Proporciona operaciones híbridas  en las cuales se combina el inbound y el outbound.
+            p.mb-0 Proporciona operaciones híbridas  en las cuales se combina el #[i inbound] y el #[i outbound].
           .tarjeta.color-acento-botones1.p-3(x="66%" y="70%")
             p.mb-0 Trabaja mediante estrategias de multicanalidad (utilización de diferentes canales de comunicación por separado) y omnicanalidad (utilización de diferentes canales de comunicación integrados).
     separador.mb-5

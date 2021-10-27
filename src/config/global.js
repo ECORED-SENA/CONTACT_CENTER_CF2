@@ -249,7 +249,7 @@ export default {
     },
     {
       texto:
-        'Paternina, D. (2011). Los Call Center y su proyección en Colombia.',
+        'Paternina, D. (2011). Los <i>Call Center</i> y su proyección en Colombia.',
       tipo: 'Artículo',
       link: 'https://dialnet.unirioja.es/descarga/articulo/6578917.pdf',
     },
