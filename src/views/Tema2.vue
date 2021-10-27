@@ -39,7 +39,7 @@
               h3 #[span.bg-color17.p-3 03]
               p.bg-color17 La diadema o dispositivo manos libres, entre otros.
     p Teniendo claras las herramientas de #[i hardware] que se necesitan, conozca que el #[i software] es el encargado de gestionar la parte lógica y física de un sistema computacional, por lo que administra los recursos y características de las operaciones en las cuales están programados.
-    p.mb-5 Existen varios #[i softwares] para #[i Contact Center], los cuales tienen dentro de sus funcionalidades las siguientes:
+    p.mb-5 Existen varios #[i software] para #[i Contact Center], los cuales tienen dentro de sus funcionalidades las siguientes:
     .row.bg-color3.px-5
       .col-12
         figure.mb-5(data-aos="fade-left")
@@ -48,7 +48,6 @@
           .row.justify-content-around.align-items-center
             .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
               img(src="@/assets/curso/img27.svg")
-
             .col-md.col-lg-6
               .titulo-segundo
                 h2(style="color: #0F0140") #[i(style="color: #0F0140") Customer Relationship Management] (CRM)
